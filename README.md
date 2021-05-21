@@ -8,7 +8,10 @@ Java, Python
 Some games  
 
 ### Projects: 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafalUzarowicz&repo=InterpreterTI4)](https://github.com/RafalUzarowicz/InterpreterTI4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafalUzarowicz&repo=SimpleNFS)](https://github.com/RafalUzarowicz/SimpleNFS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafalUzarowicz&repo=AngryBirdsQR)](https://github.com/RafalUzarowicz/AngryBirdsQR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafalUzarowicz&repo=SimulatedAnnealingTabuSearch)](https://github.com/RafalUzarowicz/SimulatedAnnealingTabuSearch)
 #### Small projects: 
 
 ### Fun fact:
