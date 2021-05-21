@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/source.gif)
+![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 ### Hello there 👋
 It's cool! :<
 
