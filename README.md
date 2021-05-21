@@ -16,10 +16,11 @@ Some games
 I don't know everything.
 
 ### Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RafalUzarowicz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RafalUzarowicz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafalUzarowicz&layout=compact&theme=dracula)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RafalUzarowicz)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RafalUzarowicz)](https://github.com/anuraghazra/github-readme-stats)
 **RafalUzarowicz/RafalUzarowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
