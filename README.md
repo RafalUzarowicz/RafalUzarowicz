@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)  
 It's cool! :<
 
 ### What i think i know:
@@ -20,7 +20,6 @@ I don't know everything.
 
 
 
-</br>
 ![Alt Text](https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif)
 <!--
 
