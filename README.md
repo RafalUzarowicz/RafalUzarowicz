@@ -1,5 +1,4 @@
 ![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)  
-It's cool! :<
 
 ### What i think i know:
 Me  
@@ -7,15 +6,23 @@ C/C++, C#
 Java, Python  
 Some games  
 
+### What i know i don't know:
+How to create your own window  
+Magic  
+JS  
+Chicken or egg
+
 ### Projects: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafalUzarowicz&repo=InterpreterTI4)](https://github.com/RafalUzarowicz/InterpreterTI4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafalUzarowicz&repo=SimpleNFS)](https://github.com/RafalUzarowicz/SimpleNFS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafalUzarowicz&repo=AngryBirdsQR)](https://github.com/RafalUzarowicz/AngryBirdsQR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafalUzarowicz&repo=SimulatedAnnealingTabuSearch)](https://github.com/RafalUzarowicz/SimulatedAnnealingTabuSearch)
-#### Small projects: 
+<!-- #### Small projects:  -->
 
 ### Fun fact:
 I don't know everything.  
+I try to learn some things.  
+I once tried to write something in JS.  
 
 ### Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RafalUzarowicz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
