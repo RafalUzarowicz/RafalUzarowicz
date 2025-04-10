@@ -1,16 +1,13 @@
 ![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)  
 
-### What i think i know:
-Me  
-C/C++, C#  
-Java, Python  
-Some games  
+### Interested in:
+Gamedev, C, C++, C#, Rust, Unity, rendering, graphics, low-level, compilers
 
-### What i know i don't know:
-How to create your own window  
-Magic  
-JS  
-Chicken or egg
+### Currently learning:
+Rust, .NET
+
+### Experienced in:
+C++, Unity, C#
 
 ### Projects: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafalUzarowicz&repo=InterpreterTI4)](https://github.com/RafalUzarowicz/InterpreterTI4)
@@ -20,9 +17,7 @@ Chicken or egg
 <!-- #### Small projects:  -->
 
 ### Fun fact:
-I don't know everything.  
-I try to learn some things.  
-I once tried to write something in JS.  
+I prefer statically typed languages.
 
 ### Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RafalUzarowicz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
